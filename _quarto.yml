@@ -4,8 +4,8 @@ project:
 
 website:
   title: "Lily Bentley"
-  description: "Movement ecologist, R enthusiast, postdoctoral research fellow"
-  site-url: https://lilybentley.github.io   # change to your GitHub username
+  description: "Movement ecologist, R enthusiast, research fellow"
+  site-url: https://lkbentley.github.io
   navbar:
     left:
       - href: index.qmd
@@ -22,9 +22,9 @@ website:
       - icon: linkedin
         href: https://au.linkedin.com/in/lily-bentley-45000776
         aria-label: LinkedIn
-      - icon: twitter-x
-        href: http://www.twitter.com/lilybentley
-        aria-label: X / Twitter
+      - icon: bluesky
+        href: https://bsky.app/profile/lilybentley.bsky.social
+        aria-label: Bluesky
   page-footer:
     left: "© 2026 Lily Bentley"
     right: "Built with [Quarto](https://quarto.org)"

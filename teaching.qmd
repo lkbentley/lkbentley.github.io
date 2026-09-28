@@ -1,36 +1,96 @@
 ---
-title: "Teaching"
+title: "Teaching & Supervision"
 ---
 
-**Guest Lecturer**, [Marine Vertebrate Conservation](https://my.uq.edu.au/programs-courses/course.html?course_code=BIOL3024), University of Queensland (2023)
-: *Monitoring and Managing Threats to Seabirds.*
+## Teaching & curriculum development
 
-**Field Trip Coordinator**, [Marine and Coastal Environmental Protection](https://my.uq.edu.au/programs-courses/course.html?course_code=ENVM7002), University of Queensland (2023)
-: Coordinated field trips for this postgraduate course.
+### University of Queensland, School of the Environment
 
-**Instructor**, Introduction to R Programming for Gates Cambridge Scholars (2019)
-: Designed, wrote and delivered a three-hour introduction to R workshop, focused on data manipulation and visualisation, for graduate students.
+**Course Design**, BIOL1033 Human Wildlife Interactions (2026)
+: As part of my Graduate Certificate in University Teaching Practice, I designed a new course from scratch as a core first-year experience in the redesigned Bachelor of Wildlife Science program.
 
-**Supervisor**, Part IA Evolution and Behaviour, University of Cambridge (2019–2020)
-: Small-group sessions accompanying this first-year introduction to evolutionary biology, covering the origins of life, plant evolution, animal diversity and function, and behavioural ecology, alongside study skills such as academic writing, searching literature, reading papers, and science in society.
+**Guest Lecturing**, ENVM3506/7505 Conservation Policy (2026)
+: Wrote and delivered a two-hour lectorial on conservation policy for Areas Beyond National Jurisdiction.
+: *Student feedback: "I think that was the best lecture I've had in my whole degree."*
 
-**Supervisor**, Conservation Science, University of Cambridge (2018)
-: Small-group tutorials for third-year students on global ecosystems, biodiversity, threats, and conservation strategies and their societal and environmental impacts, plus essay writing, communication and presentation skills.
+**Module Design & Delivery**, [ENVM2002/7002 Marine and Coastal Environmental Protection](https://my.uq.edu.au/programs-courses/course.html?course_code=ENVM7002) (2023–2025)
+: Iteratively designed and developed a new course module (three weeks of lectures per year, four weeks prepared overall), delivered in an interactive lectorial style: *The Anthropocene Ocean* (2023, 2024), *Aquatic Food System Impacts* (2023–2025), *Calculating Cumulative Impacts* (2023–2025), and *Impact Mitigation and Offsets in the Marine Environment* (2025).
+: Designed and ran the course field trip, including an online alternative for external students (2023–2025). Field Trip Coordinator from 2023.
+: Designed two new assessment items and collaborated with the course coordinator on assessment redesign for the course overall (2025).
+: Designed activities and resources for a new practical session on marine offsets (2025).
+: Individual teaching evaluation average score 4.6/5 (2025).
 
-**Supervisor**, Part II Evolution and Behaviour: Populations and Societies, University of Cambridge (2018, 2019)
-: Small-group tutorials for third-year students on animal social and eusocial behaviour, personality, signalling and communication, and family interactions, plus essay writing, communication and presentation skills.
+**Field Trip Design & Guest Lecturing**, [BIOL3024 Marine Wildlife Conservation](https://my.uq.edu.au/programs-courses/course.html?course_code=BIOL3024) (2023, 2024)
+: Designed and delivered a new lecture on seabird ecology and conservation, *Monitoring and Managing Threats to Seabirds*.
+: Designed and delivered a new four-hour field workshop on bird surveys and citizen science techniques for the weekend field trip to Moreton Bay Research Station.
 
-**Tutor**, Global Challenges in Biology, University of Queensland (2016)
-: Led sessions for first-year biological science students, revising and extending course content and covering study skills and exam technique.
+### University of Cambridge, Department of Zoology
 
-**Tutor**, Physiological and Integrative Zoology, University of Queensland (2015)
-: Tutored the final compulsory course of the Zoology major, using practical experiments (e.g. closed-system respirometry) to illustrate physiological concepts.
+**Project Co-Supervisor** (Oct 2020 – May 2021)
+: Supervised two final-year undergraduate students on independent projects using acoustic telemetry to investigate the movement ecology of green and hawksbill turtles in Seychelles, in collaboration with co-supervisors in the Zoology department and Save Our Seas.
+
+**Supervisor / Tutor** (Apr 2018 – Oct 2022)
+: *Part IA (first year): [Evolution & Behaviour](https://www.natsci.tripos.cam.ac.uk/subject-information/part1a/evo).* Organised and taught small-group sessions accompanying this introduction to evolutionary biology, combining revision of course concepts, problem-based discussion and student-led inquiry. Topics included the origins of life on earth, plant evolution and the radiation of angiosperms, animal diversity and function, behavioural ecology, and global change. I also worked with first-year students on study skills, including academic writing, searching literature, reading papers, and science in society.
+: *Part II (third year): [Conservation Science](https://www.zoo.cam.ac.uk/study/NST-II-Zoology/modules-MT#zm2-conservation-science).* Small-group tutorials supporting lecture content on global ecosystems, biodiversity and the threats facing our planet, as well as conservation strategies and solutions and their societal and environmental impacts.
+: *Part II (third year): [Evolution & Behaviour: Populations & Societies](https://www.zoo.cam.ac.uk/study/third-year-ug/NST-II-Zoology/modules-LT#l3-behavioural-ecology).* Small-group tutorials supporting lecture content on animal social (and eusocial) behaviour, animal personality, signalling and communication, and family interactions.
+: In both Part II courses, students also worked on essay structure and writing, communication, and presentation skills.
+
+**Instructor**, Ecology Field Course (Jun 2018)
+: Collaborated with three academic staff to deliver a 10-day residential field course for second-year undergraduates, in which students designed and executed group research projects.
+: Wrote and delivered short sessions on ecology, R, experimental design, and statistical methods, and instructed on field methods including sampling transects, plant ID keys, and invertebrate trapping.
+
+**Lead Instructor**, Introduction to R Programming, Gates Cambridge Scholars (Nov 2018)
+: Designed, wrote and delivered a three-hour introduction to R workshop on data manipulation and visualisation for graduate students.
+
+### University of Queensland, School of Biological Sciences
+
+**Tutor**, [Integrative and Physiological Zoology](https://www.uq.edu.au/study/course.html?course_code=BIOL3205) (2015, Jul – Dec 2016)
+: Guided groups of six third-year students through activities to develop practical laboratory skills and conceptual understanding of physiological systems. This final compulsory course of the Zoology major uses practical experiments (e.g. closed-system respirometry) to illustrate physiological concepts such as oxygen consumption rates.
+
+**Tutor**, [Global Challenges in Biology](https://www.uq.edu.au/study/course.html?course_code=BIOL1030) (2016)
+: Planned and led sessions for first-year biological science students, revising and extending course content as well as discussing study skills and exam techniques.
 
 **Course Assistant**, Introduction to R Programming, UQ Postgraduate Society (2015)
-: Assisted the Biology department's statistics consultant in delivering a day-long R workshop for postgraduate students.
+: Assisted the Biology department's statistics consultant to deliver a day-long R workshop for postgraduate students.
 
-**Convenor**, Middle East Experience 2015, [UN Youth Australia](https://unyouth.org.au)
-: Designed, negotiated and led an educational tour for 12 high-school students through Jordan and Israel, meeting UN bodies, NGOs and community organisations.
+### Other education roles
+
+**Convenor**, [Middle East Experience 2015](https://unyouth.org.au/wp-content/uploads/2014/06/UN-Youth-Middle-East-Experience-2015-Registration-Information-Pack.pdf), [UN Youth Australia](https://unyouth.org.au)
+: Designed, negotiated and led an educational tour for 12 exceptional high schoolers through Jordan and Israel, meeting with UN bodies, NGOs and community organisations to explore the regional journey towards peace.
 
 **Coordinator**, Animal Training Centre, [RSPCA Queensland](https://www.rspcaqld.org.au) (2014–2016)
-: Wrote and delivered education programs in animal behaviour and training, designed individual behaviour-modification programs, and drove strategy, marketing and promotion for the centre.
+: Wrote and delivered external and internal education programs in animal behaviour and training, designed and implemented individual behaviour modification programs for clients and their dogs, and drove strategic decisions, marketing and promotions for the Animal Training Centre.
+
+## Supervision
+
+### PhD candidates
+
+**Nina Grimley** (effective co-primary advisor), 2026–2029
+: Demographically informed conservation planning for migratory species.
+
+**Angela Liu** (effective co-primary advisor), 2024–2027
+: Understanding marine migratory connectivity for more sustainable oceans.
+: Winner, best student talk, International Congress for Conservation Biology 2025.
+
+**Jaime Restrepo** (associate advisor), 2022–2026
+: Breeding migrations and connectivity among foraging destinations for green turtles, based on satellite telemetry and stable isotope analysis.
+
+**Ho Fung (Billy) Wong** (associate advisor), 2023–2026
+: The importance of mesoscale ocean dynamics for seabird–fishery interactions.
+
+### Honours candidates
+
+**Patrick Connolly** (associate advisor), 2026
+: Conservation evidence for Australian tern species.
+
+**Nina Grimley** (associate advisor), 2025–2026
+: Oceanographic anomalies as drivers of seabird wrecks.
+
+**Rowan Nicholls** (primary advisor), 2024–2025, First Class Honours
+: Comparing methods to delineate corridors for marine migratory species.
+
+### Undergraduate projects
+
+- **Tayla Linton-Smith & Kelsie Lewis** (primary advisor), Semester 2, 2026
+- **Patrick Connolly** (primary advisor), Semester 2, 2025
+- **Hannah McMurtrie & Laura Howes** (associate advisor), Semester 2, 2024

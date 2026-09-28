@@ -1,19 +1,27 @@
 ---
-title: "Outreach"
+title: "Outreach & Reports"
 ---
 
-## Radio & live events
+## Public events
 
 **Science Smackdown: The Ultimate Debate**, World Science Festival Brisbane (2025)
-: Debated on Team Wellness Warriors in *"Wellness influencers will outlive us all!"*, hosted by Natasha Mitchell and broadcast on ABC Radio National's *Big Ideas*, 13 August 2025. [Listen on ABC listen](https://www.abc.net.au/listen/programs/bigideas/wellness-influencers-debate-world-science-festival-brisbane/105588530)
+: A 90-minute show in the QPAC Concert Hall combining science and comedy to inform and entertain. I debated on Team Wellness Warriors in *"Wellness influencers will outlive us all!"*, hosted by Natasha Mitchell and broadcast on ABC Radio National's *Big Ideas*, 13 August 2025. [Listen on ABC listen](https://www.abc.net.au/listen/programs/bigideas/wellness-influencers-debate-world-science-festival-brisbane/105588530)
 
-**Future Science Talks: Comedy Edition**, Brisbane Comedy Festival (2023)
+**Future Science Talks: Comedy Edition**, Brisbane Comedy Festival (2024)
 : A 10-minute science stand-up set, part of an outreach program supported by Inspiring Australia (Queensland).
 
-## Writing
+## Popular writing
 
-**Bentley, L. K.** et al. (2025). [Hidden connections of more than 100 migratory marine species revealed in interactive map](https://theconversation.com/hidden-connections-of-more-than-100-migratory-marine-species-revealed-in-interactive-map-255972). *The Conversation*.
+**Bentley, L. K.**, Harrison, A.-L., & Dunn, D. C. (2025). [Hidden connections of over 100 migratory marine species revealed in interactive map](https://theconversation.com/hidden-connections-of-more-than-100-migratory-marine-species-revealed-in-interactive-map-255972). *The Conversation*, 9 May 2025.
 
 **Bentley, L. K.** (2024). Earth View: [Moving on migration](https://www.australiangeographic.com.au/topics/opinion-and-analysis/2024/05/opinion-moving-on-migration/). *Australian Geographic*, Issue 180, p. 32.
 
 Fuller, R. A., Dunn, D. C., & **Bentley, L. K.** (2024). [The world's spectacular animal migrations are dwindling. Fishing, fences and development are fast-tracking extinctions](https://theconversation.com/the-worlds-spectacular-animal-migrations-are-dwindling-fishing-fences-and-development-are-fast-tracking-extinctions-222986). *The Conversation*, 12 February 2024.
+
+## Reports & policy briefs
+
+Connolly, P., Ng, E. Y., **Bentley, L. K.**, Amano, T., & Fuller, R. (2026). Conservation evidence for Australian tern species. *OSF*. [Protocol for conservation evidence synthesis]
+
+Madden, C. A., Maurer, A. S., Bourgogne, H., Jensen, M. P., **Bentley, L. K.**, […] & Dunn, D. C. (2025). [Blue Corridors for Turtles](https://wwfafrica.awsassets.panda.org/downloads/blue-corridors-for-turtles_report.pdf). *WWF Coral Triangle Program*. [Project launch report at the UN Ocean Conference 2025]
+
+Dunn, D. C., **Bentley, L. K.**, Harrison, A.-L., & Metaxas, A. Linking distant worlds: Understanding and measuring connectivity in the global ocean. Policy brief for the UN Convention on Biological Diversity COP16. Global Ocean Biodiversity Initiative.
