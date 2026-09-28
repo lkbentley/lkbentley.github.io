@@ -6,7 +6,7 @@ title: "Research"
 
 Quantifying global migratory connectivity of marine megafauna, and establishing methods to build migratory network models by integrating multiple data collection methods.
 
-I co-lead [Blue Corridors for Turtles](https://www.argos-system.org/new-global-initiative-map-blue-corridors-for-turtles/) with WWF and partners, combining satellite tracking and genetic data to map the movements of all seven sea turtle species and identify Important Marine Turtle Areas. Read the [June 2025 report](https://wwfafrica.awsassets.panda.org/downloads/blue-corridors-for-turtles_report.pdf).
+I work on [Blue Corridors for Turtles](https://www.argos-system.org/new-global-initiative-map-blue-corridors-for-turtles/) with WWF and partners, combining satellite tracking and genetic data to map the movements of all seven sea turtle species and identify Important Marine Turtle Areas. Read the [June 2025 report](https://wwfafrica.awsassets.panda.org/downloads/blue-corridors-for-turtles_report.pdf).
 
 I'm also tracking seabirds in the Great Barrier Reef with BirdLife Australia and Queensland Parks and Wildlife Service.
 
@@ -34,16 +34,10 @@ I've also assisted with data collection for projects on kangaroo social behaviou
 
 For publications, see my [Google Scholar profile](https://scholar.google.com/citations?user=ZLBy3hIAAAAJ&hl=en).
 
-## Funding
-
-**DETSI / QPWS** (PI, ~$95,000), July 2026
-: *Tracking sympatric seabirds in the Great Barrier Reef to delineate Key Biodiversity Areas.* Follow-up funding to support the second year of the project.
+## Funding as Lead PI
 
 **CBCS Small Grants Scheme** (PI, $3,300), March 2026
 : *Bringing animal tracking data from ecological research to applied conservation outcomes* (workshop).
-
-**IUCN** (co-PI, $228,000) and **WWF** (co-PI, $149,000), December 2025
-: *Enhancing capacities for high seas conservation with Important Marine Turtle Areas* (IUCN) and *Development of Blue Corridors for Turtles* (WWF). Together these support the Blue Corridors for Turtles project, led by Dr Chris Madden (WWF), A/Prof Daniel Dunn (UQ) and Dr Lily Bentley (UQ).
 
 **RZS NSW Paddy Pallin Science Grant** (PI, $10,000), November 2025
 : *Tracking sympatric seabirds in the Capricornia Cays to improve conservation and management.*
@@ -51,17 +45,11 @@ For publications, see my [Google Scholar profile](https://scholar.google.com/cit
 **UQ Knowledge Exchange & Translation Fund** (PI, ~$104,000), October 2025
 : *Tracking sympatric seabirds in the Great Barrier Reef to delineate Key Biodiversity Areas.* In collaboration with BirdLife Australia and Queensland Parks and Wildlife Service.
 
-**UQ Marine Stations New Project Grant Scheme** (co-PI, ~$5,000), October 2024
-: *Migratory connectivity of marine megavertebrates in the southern Great Barrier Reef.* Eight weeks of accommodation at Heron Island Research Station to support fieldwork on seabirds and marine turtles.
-
 **Queensland-Smithsonian Fellowship** (PI, $23,000), August 2024
 : *Quantifying migratory connectivity of Great Barrier Reef seabirds.* Collating existing knowledge of seabird migratory connectivity in the GBR to identify priority species and areas for future research, in collaboration with Dr Autumn-Lynn Harrison (Smithsonian National Zoo and Conservation Biology Institute).
 
 **CBCS Small Grants Scheme** (PI, $5,000), April 2023
 : *Developing Megavertebrate Conservation Research and Teaching at Heron Island* (workshop).
-
-**MigraMar** (co-PI, $20,000), January 2023
-: *Connecting data types to understand migratory species.*
 
 ## Conference presentations & invited talks
 
