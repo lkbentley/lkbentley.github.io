@@ -1,0 +1,46 @@
+---
+title: "Lily Bentley"
+subtitle: "Movement ecologist, R enthusiast, postdoctoral research fellow"
+about:
+  template: solana
+  id: about-block
+  image: img/profile.jpg
+  image-shape: round
+  links:
+    - icon: building
+      text: UQ Profile
+      href: https://cbcs.centre.uq.edu.au/profile/2253/lily-bentley
+    - icon: globe
+      text: Lab Website
+      href: https://www.marinebiogeo.org/the-lab
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=ZLBy3hIAAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://au.linkedin.com/in/lily-bentley-45000776
+    - icon: twitter-x
+      text: Twitter
+      href: http://www.twitter.com/lilybentley
+    # Add email if you want it public:
+    # - icon: envelope
+    #   aria-label: email
+    #   href: mailto:you@example.com
+---
+
+::: {#about-block}
+:::
+
+I am a researcher interested in the causes and consequences of animal movement, and the emerging technologies that we can use to track animals in the wild. I am especially concerned with changes in animal movement behaviour caused by climate change.
+
+I'm currently a Postdoctoral Research Fellow at the [Centre for Biodiversity and Conservation Science](https://cbcs.centre.uq.edu.au/profile/2253/lily-bentley), based at the University of Queensland. I work with Associate Professor Daniel Dunn in the [Applied Marine Biogeography Lab](https://www.marinebiogeo.org/the-lab) on projects related to migratory connectivity in the ocean.
+
+In 2022 I completed my PhD as a [Gates Cambridge](https://www.gatescambridge.org) scholar, in partnership with the [Department of Zoology](https://www.zoo.cam.ac.uk) and the [British Antarctic Survey](https://www.bas.ac.uk), on albatross and petrel foraging ecology.
+
+I spent most of 2017 undertaking a Data Science fellowship in the Kampala office of Fenix International, a solar power company bringing affordable clean energy to off-grid customers in Uganda.
+
+My previous research was in the Franklin ECO-Lab at the University of Queensland, where I investigated saltwater crocodile thermal biology and movement ecology.
+
+Outside of academia, I worked for eight years in Animal Training & Behaviour at the [RSPCA Queensland](https://www.rspcaqld.org.au), teaching obedience, agility, puppy classes, and individual training.
+
+Find out more about my [Research](research.qmd), [Teaching](teaching.qmd) and [Outreach](outreach.qmd), or see my publications on [Google Scholar](https://scholar.google.com/citations?user=ZLBy3hIAAAAJ&hl=en).

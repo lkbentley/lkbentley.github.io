@@ -1,0 +1,36 @@
+---
+title: "Teaching"
+---
+
+**Guest Lecturer**, [Marine Vertebrate Conservation](https://my.uq.edu.au/programs-courses/course.html?course_code=BIOL3024), University of Queensland (2023)
+: *Monitoring and Managing Threats to Seabirds.*
+
+**Field Trip Coordinator**, [Marine and Coastal Environmental Protection](https://my.uq.edu.au/programs-courses/course.html?course_code=ENVM7002), University of Queensland (2023)
+: Coordinated field trips for this postgraduate course.
+
+**Instructor**, Introduction to R Programming for Gates Cambridge Scholars (2019)
+: Designed, wrote and delivered a three-hour introduction to R workshop, focused on data manipulation and visualisation, for graduate students.
+
+**Supervisor**, Part IA Evolution and Behaviour, University of Cambridge (2019–2020)
+: Small-group sessions accompanying this first-year introduction to evolutionary biology, covering the origins of life, plant evolution, animal diversity and function, and behavioural ecology, alongside study skills such as academic writing, searching literature, reading papers, and science in society.
+
+**Supervisor**, Conservation Science, University of Cambridge (2018)
+: Small-group tutorials for third-year students on global ecosystems, biodiversity, threats, and conservation strategies and their societal and environmental impacts, plus essay writing, communication and presentation skills.
+
+**Supervisor**, Part II Evolution and Behaviour: Populations and Societies, University of Cambridge (2018, 2019)
+: Small-group tutorials for third-year students on animal social and eusocial behaviour, personality, signalling and communication, and family interactions, plus essay writing, communication and presentation skills.
+
+**Tutor**, Global Challenges in Biology, University of Queensland (2016)
+: Led sessions for first-year biological science students, revising and extending course content and covering study skills and exam technique.
+
+**Tutor**, Physiological and Integrative Zoology, University of Queensland (2015)
+: Tutored the final compulsory course of the Zoology major, using practical experiments (e.g. closed-system respirometry) to illustrate physiological concepts.
+
+**Course Assistant**, Introduction to R Programming, UQ Postgraduate Society (2015)
+: Assisted the Biology department's statistics consultant in delivering a day-long R workshop for postgraduate students.
+
+**Convenor**, Middle East Experience 2015, [UN Youth Australia](https://unyouth.org.au)
+: Designed, negotiated and led an educational tour for 12 high-school students through Jordan and Israel, meeting UN bodies, NGOs and community organisations.
+
+**Coordinator**, Animal Training Centre, [RSPCA Queensland](https://www.rspcaqld.org.au) (2014–2016)
+: Wrote and delivered education programs in animal behaviour and training, designed individual behaviour-modification programs, and drove strategy, marketing and promotion for the centre.

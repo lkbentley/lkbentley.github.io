@@ -1,0 +1,39 @@
+---
+title: "Research"
+---
+
+## Postdoctoral work
+
+Quantifying global migratory connectivity of marine megafauna, and establishing methods to build migratory network models by integrating multiple data collection methods. I have been invited to review for journals including *Animal Behaviour*, *Conservation Biology* and *MEPS*.
+
+## PhD
+
+My PhD (completed 2022) used a substantial body of existing [seabird tracking data](https://www.seabirdtracking.org) to determine the role of habitat accessibility and preference in explaining variation in distribution patterns, both within and between seabird species.
+
+## Research assistant
+
+I conducted quality assurance and control on several seabird population distribution databases (spanning 500 individual populations and 60 years) in preparation for further analysis.
+
+## Honours
+
+I investigated the physiological and environmental factors influencing the field body temperature and movement patterns of estuarine crocodiles in the Wenlock River system, Northern Queensland. This project involved refining and analysing over 9 million raw data points in R (including GAM, GLMM, and FFT analyses, and data visualisation using ggplot2).
+
+## Undergraduate project
+
+I studied the frequency of [skin sloughing](https://www.youtube.com/watch?v=sfGbbovgsdQ) in two native Australian amphibians, and its relationship with body size.
+
+## Volunteering
+
+I've also assisted with data collection for projects on kangaroo social behaviour and endocrinology, as well as native fish passage through culverts.
+
+For publications, see my [Google Scholar profile](https://scholar.google.com/citations?user=ZLBy3hIAAAAJ&hl=en).
+
+## Conference presentations
+
+**International Marine Conservation Congress**, October 2024. *Reviewing the role of migratory species in systematic conservation planning.*
+
+**Australian Ornithological Conference**, November 2023. *Global synthesis of migratory connectivity in marine birds.* [Talk]
+
+**Ecological Society of Australia Annual Conference**, December 2020. *Habitat preferences in sympatry and allopatry of the* Phoebetria *albatrosses.* [Talk] Winner of the [Wiley Prize for outstanding spoken presentation](https://www.ecolsoc.org.au/news/esa2020-student-prize-winners/) by a student.
+
+**British Ecological Society Annual Conference**, December 2018. *Spatiotemporal segregation of foraging habitat in Southern Ocean grey and white-chinned petrels.* [Poster]
