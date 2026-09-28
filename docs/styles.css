@@ -1,0 +1,19 @@
+/* Light touch on top of the litera theme */
+body {
+  font-size: 1.02rem;
+  line-height: 1.65;
+}
+
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #e5e5e5;
+  font-size: 1.35rem;
+}
+
+/* Spacing for the teaching list (definition list) */
+dl dt { margin-top: 1.2rem; font-weight: normal; }
+dl dd { margin-left: 1.2rem; color: #555; }
+
+/* Publications: a bit of space between entries */
+main p { margin-bottom: 0.9rem; }
